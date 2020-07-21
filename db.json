@@ -1,0 +1,42 @@
+{
+  "Logs": [
+    {
+      "id": 1,
+      "message": "Changed GPU at workstation 007",
+      "attention": false,
+      "date": "17-07-2020",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 1,
+      "message": "Encountered aliens at workstation 666",
+      "attention": false,
+      "date": "17-07-2020",
+      "tech": "Dhiru Bhai"
+    },
+    {
+      "id": 1,
+      "message": "Demolished HDDs at workstation 069",
+      "attention": true,
+      "date": "17-07-2020",
+      "tech": "Pappu Pelu"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "first name": "Sam",
+      "last name": "Smith"
+    },
+    {
+      "id": 2,
+      "first name": "Dhiru",
+      "last name": "Bhai"
+    },
+    {
+      "id": 3,
+      "first name": "Pappu",
+      "last name": "Pelu"
+    }
+  ]
+}
