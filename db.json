@@ -2,41 +2,41 @@
   "Logs": [
     {
       "id": 1,
-      "message": "Changed GPU at workstation 007",
+      "message": "Changed GPU at workstation 0076",
       "attention": false,
-      "date": "17-07-2020",
-      "tech": "Sam Smith"
+      "tech": "Sam Smith",
+      "date": "2020-07-23T13:55:20.886Z"
     },
     {
-      "id": 1,
-      "message": "Encountered aliens at workstation 666",
+      "id": 156,
+      "message": "Encountered aliens at workstation 69",
       "attention": false,
-      "date": "17-07-2020",
-      "tech": "Dhiru Bhai"
+      "tech": "Dhiru Bhai",
+      "date": "2020-07-22T19:25:12.744Z"
     },
     {
-      "id": 1,
-      "message": "Demolished HDDs at workstation 069",
+      "message": "99 problems and redux ain't one",
       "attention": true,
-      "date": "17-07-2020",
-      "tech": "Pappu Pelu"
+      "tech": "Pappu Pelu",
+      "date": "2020-07-23T14:06:14.000Z",
+      "id": 157
     }
   ],
   "techs": [
     {
-      "id": 1,
-      "first name": "Sam",
-      "last name": "Smith"
+      "id": 17878,
+      "firstName": "Sam",
+      "lastName": "Smithz"
     },
     {
-      "id": 2,
-      "first name": "Dhiru",
-      "last name": "Bhai"
+      "id": 2456354,
+      "firstName": "Dhiru",
+      "lastName": "Bhai"
     },
     {
-      "id": 3,
-      "first name": "Pappu",
-      "last name": "Pelu"
+      "id": 345654,
+      "firstName": "Pappu",
+      "lastName": "Pelu"
     }
   ]
 }
